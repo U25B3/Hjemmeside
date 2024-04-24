@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/85842fc8-4e4d-4dd4-99f8-ff54183acc5c/deploy-status)](https://app.netlify.com/sites/regal-sunburst-56a32b/deploys)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
