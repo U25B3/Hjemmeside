@@ -5,15 +5,9 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <p>
-          Hei, Johannes her.
-        </p>
-        <p>
-          Snart kommer en liten side.
-        </p>
-        <p>
-          Bare vent.
-        </p>
+        <img src={logo} className="App-logo" alt="logo" />
+        <p>Hei. Johannes her.</p>
+        <p>Kommer side snart, bare vent</p>
       </header>
     </div>
   );
