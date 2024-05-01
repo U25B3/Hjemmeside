@@ -1,17 +1,15 @@
 import logo from './logo.svg';
+import Header from './components/Header/header.js';
+import Splash from './components/Splash/splash.js';
+import Footer from './components/Footer/footer.js';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <p>Hei, Johannes her</p>
-        <p>Kommer side snart, bare vent</p>
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          <code>src/App.js</code> 
-        </p>
-      </header>
+      <Header />
+      <Splash />
+      <Footer />
     </div>
   );
 }
